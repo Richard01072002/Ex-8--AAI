@@ -1,5 +1,5 @@
-## YUVAN M
-## 212223240188
+## RICHARDSON A
+## 212222233005
 ## EXP 8
 ## Implementation of Speech Recognition
 ## Aim: 
